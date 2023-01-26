@@ -6,9 +6,10 @@ to run the app you need to have installed npm.
 
 To install npm in your terminal run:
 npm instal
+### `npm istall`
 
 To run the app:
-npm start
+### `npm start`
 
 ====================================================
 
